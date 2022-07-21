@@ -16,4 +16,4 @@
 ![image](https://user-images.githubusercontent.com/59855468/180007681-37174113-a0a9-4068-bf8d-e06b9585f212.png)
 
 ## Reference
-[노마드 코더 - https://nomadcoders.co/react-graphql-for-beginners](https://nomadcoders.co/react-graphql-for-beginners)
+[노마드 코더 - GraphQL로 영화 웹 앱 만들기](https://nomadcoders.co/react-graphql-for-beginners)
